@@ -1,0 +1,1 @@
+Perform SQL analysis on the Chinook Music Store dataset, utilizing SQL queries for data retrieval, complex joins, aggregations, and window functions. The project involves setting up a MySQL server using Docker, analyzing sales data, customer transactions, and track details, and generating insights through advanced SQL techniques.
